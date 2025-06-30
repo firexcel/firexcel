@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @firexcel
 - 👀 I’m interested in data and coding. I like to create rather maintaining.
-- 🌱 I’m currently learning excel/python/modelling/data enginerring/statistics
+- 🌱 I’m currently seasoned data expert in excel/python/modelling/data enginerring/statistics
 - 💞️ I’m looking to collaborate on becoming a full stack data expert
 - 📫 How to reach me firexcel.co/youtube/xhs/udemy
 - 😄 Pronouns: He/Him
